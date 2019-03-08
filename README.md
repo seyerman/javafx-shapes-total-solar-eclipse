@@ -5,5 +5,13 @@ If you want to see the most basic version see the basic-eclipse branch: https://
 
 If you want to see a little more advaced version see the , click on https://github.com/seyerman/javafx-shapes-total-solar-eclipse/tree/eclipse-with-transition
 
-<img src="docs/mockups/TotalEclipseScreenShot1.png" width="50%" height="50%">
+<img src="docs/mockups/TotalEclipseScreenShot1.png" width="40%" sytle="display: inline-block;">
+<img src="docs/mockups/TotalEclipseScreenShot2.png" width="40%" sytle="display: inline-block;">
+<img src="docs/mockups/TotalEclipseScreenShot3.png" width="40%">
+<img src="docs/mockups/TotalEclipseScreenShot4.png" width="40%">
+<img src="docs/mockups/TotalEclipseScreenShot5.png" width="40%">
+<img src="docs/mockups/TotalEclipseScreenShot6.png" width="40%">
+<img src="docs/mockups/TotalEclipseScreenShot7.png" width="40%">
+<img src="docs/mockups/TotalEclipseScreenShot8.png" width="40%">
+<img src="docs/mockups/TotalEclipseScreenShot9.png" width="40%">
 
