@@ -5,5 +5,5 @@ If you want to see the most basic version see the basic-eclipse branch: https://
 
 If you want to see a little more advaced version see the , click on https://github.com/seyerman/javafx-shapes-total-solar-eclipse/tree/eclipse-with-transition
 
-![first app screen](tree/master/docs/mockups/TotalEclipseScreenShot1.png)
+![first app screen](tree/master/docs/mockups/TotalEclipseScreenShot1.png?raw=true)
 
